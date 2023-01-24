@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>AllAreas16Feb13</name>
+    <name>All Areas</name>
     <Style id="line-A52714-1000-normal">
       <LineStyle>
-        <color>ff1427a5</color>
+        <color>ff0074B8</color>
         <width>1</width>
       </LineStyle>
     </Style>
     <Style id="line-A52714-1000-highlight">
       <LineStyle>
-        <color>ff1427a5</color>
+        <color>ff0074B8</color>
         <width>1.5</width>
       </LineStyle>
     </Style>
@@ -26,22 +26,22 @@
     </StyleMap>
     <Style id="poly-A52714-3701-76-normal">
       <LineStyle>
-        <color>ff1427a5</color>
+        <color>ff0074B8</color>
         <width>3.701</width>
       </LineStyle>
       <PolyStyle>
-        <color>4c1427a5</color>
+        <color>4c0074B8</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
     <Style id="poly-A52714-3701-76-highlight">
       <LineStyle>
-        <color>ff1427a5</color>
+        <color>ff0074B8</color>
         <width>5.5515</width>
       </LineStyle>
       <PolyStyle>
-        <color>4c1427a5</color>
+        <color>4c0074B8</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -58,26 +58,23 @@
     </StyleMap>
     <Placemark>
       <name>Kingsbrook and Cauldwell</name>
-      <description><![CDATA[description: <br>REGION: EE<br>AUTHORITY: Bedford<br>AREA_NAME: Kingsbrook and Cauldwell<br>BL_ID: 001<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: EE<br>AUTHORITY: Bedford<br>BL_ID: 001<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Bedford</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Kingsbrook and Cauldwell</value>
-        </Data>
         <Data name="BL_ID">
           <value>001</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -292,26 +289,23 @@
     </Placemark>
     <Placemark>
       <name><![CDATA[Whitehouse & Whitton]]></name>
-      <description><![CDATA[description: <br>REGION: EE<br>AUTHORITY: Ipswich<br>AREA_NAME: Whitehouse &amp; Whitton<br>BL_ID: 002<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: EE<br>AUTHORITY: Ipswich<br>BL_ID: 002<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Ipswich</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value><![CDATA[Whitehouse &amp; Whitton]]></value>
-        </Data>
         <Data name="BL_ID">
           <value>002</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -710,26 +704,23 @@
     </Placemark>
     <Placemark>
       <name>Leeming Road/Aycliffe road</name>
-      <description><![CDATA[description: <br>REGION: EE<br>AUTHORITY: Hertsmere<br>AREA_NAME: Leeming Road/Aycliffe road<br>BL_ID: 003<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: EE<br>AUTHORITY: Hertsmere<br>BL_ID: 003<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#line-A52714-1000</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Hertsmere</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Leeming Road/Aycliffe road</value>
-        </Data>
         <Data name="BL_ID">
           <value>003</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <MultiGeometry>
@@ -912,26 +903,23 @@
     </Placemark>
     <Placemark>
       <name>Ramsey</name>
-      <description><![CDATA[description: <br>REGION: EE<br>AUTHORITY: Huntingdonshire<br>AREA_NAME: Ramsey<br>BL_ID: 004<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: EE<br>AUTHORITY: Huntingdonshire<br>BL_ID: 004<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Huntingdonshire</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Ramsey</value>
-        </Data>
         <Data name="BL_ID">
           <value>004</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <MultiGeometry>
@@ -1511,26 +1499,23 @@
     </Placemark>
     <Placemark>
       <name>Allenton</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: Derby<br>AREA_NAME: Allenton<br>BL_ID: 005<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: Derby<br>BL_ID: 005<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Derby</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Allenton</value>
-        </Data>
         <Data name="BL_ID">
           <value>005</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -2208,26 +2193,23 @@
     </Placemark>
     <Placemark>
       <name>Lumbertubs/Thorplands</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: Northampton<br>AREA_NAME: Lumbertubs/Thorplands<br>BL_ID: 006<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: Northampton<br>BL_ID: 006<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Northampton</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Lumbertubs/Thorplands</value>
-        </Data>
         <Data name="BL_ID">
           <value>006</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -2605,26 +2587,23 @@
     </Placemark>
     <Placemark>
       <name>Warsop</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: Mansfield<br>AREA_NAME: Warsop<br>BL_ID: 007<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: Mansfield<br>BL_ID: 007<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Mansfield</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Warsop</value>
-        </Data>
         <Data name="BL_ID">
           <value>007</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -3809,26 +3788,23 @@
     </Placemark>
     <Placemark>
       <name>Mablethorp/Trusthorpe</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: East Lindsey<br>AREA_NAME: Mablethorp/Trusthorpe<br>BL_ID: 008<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: East Lindsey<br>BL_ID: 008<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>East Lindsey</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Mablethorp/Trusthorpe</value>
-        </Data>
         <Data name="BL_ID">
           <value>008</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -5351,26 +5327,23 @@
     </Placemark>
     <Placemark>
       <name>White City Estate</name>
-      <description><![CDATA[description: <br>REGION: LON<br>AUTHORITY: Hammersmith &amp; Fulham<br>AREA_NAME: White City Estate<br>BL_ID: 009<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: LON<br>AUTHORITY: Hammersmith &amp; Fulham<br>BL_ID: 009<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LON</value>
         </Data>
         <Data name="AUTHORITY">
           <value><![CDATA[Hammersmith &amp; Fulham]]></value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>White City Estate</value>
-        </Data>
         <Data name="BL_ID">
           <value>009</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -5827,26 +5800,23 @@
     </Placemark>
     <Placemark>
       <name>North Brixton</name>
-      <description><![CDATA[description: <br>REGION: LON<br>AUTHORITY: Lambeth<br>AREA_NAME: North Brixton<br>BL_ID: 010<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: LON<br>AUTHORITY: Lambeth<br>BL_ID: 010<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LON</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Lambeth</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>North Brixton</value>
-        </Data>
         <Data name="BL_ID">
           <value>010</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -6236,26 +6206,23 @@
     </Placemark>
     <Placemark>
       <name>South Bermondsey</name>
-      <description><![CDATA[description: <br>REGION: LON<br>AUTHORITY: Southwark<br>AREA_NAME: South Bermondsey<br>BL_ID: 011<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: LON<br>AUTHORITY: Southwark<br>BL_ID: 011<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LON</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Southwark</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>South Bermondsey</value>
-        </Data>
         <Data name="BL_ID">
           <value>011</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -7283,26 +7250,23 @@
     </Placemark>
     <Placemark>
       <name>Custom House</name>
-      <description><![CDATA[description: <br>REGION: LON<br>AUTHORITY: Newham<br>AREA_NAME: Custom House<br>BL_ID: 012<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: LON<br>AUTHORITY: Newham<br>BL_ID: 012<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LON</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Newham</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Custom House</value>
-        </Data>
         <Data name="BL_ID">
           <value>012</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -7809,26 +7773,23 @@
     </Placemark>
     <Placemark>
       <name>Wick Ward</name>
-      <description><![CDATA[description: <br>REGION: LON<br>AUTHORITY: Hackney<br>AREA_NAME: Wick Ward<br>BL_ID: 013<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: LON<br>AUTHORITY: Hackney<br>BL_ID: 013<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LON</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Hackney</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Wick Ward</value>
-        </Data>
         <Data name="BL_ID">
           <value>013</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -8476,26 +8437,23 @@
     </Placemark>
     <Placemark>
       <name>Barnfield Esate, Woolwich Common</name>
-      <description><![CDATA[description: <br>REGION: LON<br>AUTHORITY: Greenwich<br>AREA_NAME: Barnfield Esate, Woolwich Common<br>BL_ID: 014<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: LON<br>AUTHORITY: Greenwich<br>BL_ID: 014<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LON</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Greenwich</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Barnfield Esate, Woolwich Common</value>
-        </Data>
         <Data name="BL_ID">
           <value>014</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -8560,26 +8518,23 @@
     </Placemark>
     <Placemark>
       <name>Mottingham</name>
-      <description><![CDATA[description: <br>REGION: LON<br>AUTHORITY: Bromley<br>AREA_NAME: Mottingham<br>BL_ID: 015<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: LON<br>AUTHORITY: Bromley<br>BL_ID: 015<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LON</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Bromley</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Mottingham</value>
-        </Data>
         <Data name="BL_ID">
           <value>015</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -9243,26 +9198,23 @@
     </Placemark>
     <Placemark>
       <name>William Morris Ward/Priory Court</name>
-      <description><![CDATA[description: <br>REGION: LON<br>AUTHORITY: Waltham Forest<br>AREA_NAME: William Morris Ward/Priory Court<br>BL_ID: 016<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: LON<br>AUTHORITY: Waltham Forest<br>BL_ID: 016<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LON</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Waltham Forest</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>William Morris Ward/Priory Court</value>
-        </Data>
         <Data name="BL_ID">
           <value>016</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -10435,26 +10387,23 @@
     </Placemark>
     <Placemark>
       <name><![CDATA[Heston West (formerly Brabazon & Helech Gardens)]]></name>
-      <description><![CDATA[description: <br>REGION: LON<br>AUTHORITY: Hounslow<br>AREA_NAME: Heston West (formerly Brabazon &amp; Helech Gardens)<br>BL_ID: 017<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: LON<br>AUTHORITY: Hounslow<br>BL_ID: 017<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LON</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Hounslow</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value><![CDATA[Heston West (formerly Brabazon &amp; Helech Gardens)]]></value>
-        </Data>
         <Data name="BL_ID">
           <value>017</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -10762,26 +10711,23 @@
     </Placemark>
     <Placemark>
       <name><![CDATA[Teams & Derwentwater]]></name>
-      <description><![CDATA[description: <br>REGION: NE<br>AUTHORITY: Gateshead<br>AREA_NAME: Teams &amp; Derwentwater<br>BL_ID: 018<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NE<br>AUTHORITY: Gateshead<br>BL_ID: 018<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Gateshead</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value><![CDATA[Teams &amp; Derwentwater]]></value>
-        </Data>
         <Data name="BL_ID">
           <value>018</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -11139,26 +11085,23 @@
     </Placemark>
     <Placemark>
       <name>South West Bishop Auckland</name>
-      <description><![CDATA[description: <br>REGION: NE<br>AUTHORITY: County Durham (former District of Wear Valley)<br>AREA_NAME: South West Bishop Auckland<br>BL_ID: 019<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NE<br>AUTHORITY: County Durham (former District of Wear Valley)<br>BL_ID: 019<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>County Durham (former District of Wear Valley)</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>South West Bishop Auckland</value>
-        </Data>
         <Data name="BL_ID">
           <value>019</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -12768,26 +12711,23 @@
     </Placemark>
     <Placemark>
       <name>East Cleveland Rural Villages</name>
-      <description><![CDATA[description: <br>REGION: NE<br>AUTHORITY: Redcar and Cleveland<br>AREA_NAME: East Cleveland Rural Villages<br>BL_ID: 020<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NE<br>AUTHORITY: Redcar and Cleveland<br>BL_ID: 020<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Redcar and Cleveland</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>East Cleveland Rural Villages</value>
-        </Data>
         <Data name="BL_ID">
           <value>020</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -13618,26 +13558,23 @@
     </Placemark>
     <Placemark>
       <name>Maryport</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Allerdale<br>AREA_NAME: Maryport<br>BL_ID: 021<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Allerdale<br>BL_ID: 021<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Allerdale</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Maryport</value>
-        </Data>
         <Data name="BL_ID">
           <value>021</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -13725,26 +13662,23 @@
     </Placemark>
     <Placemark>
       <name>Barrow Island</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Barrow-in-Furness<br>AREA_NAME: Barrow Island<br>BL_ID: 022<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Barrow-in-Furness<br>BL_ID: 022<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Barrow-in-Furness</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Barrow Island</value>
-        </Data>
         <Data name="BL_ID">
           <value>022</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -13963,26 +13897,23 @@
     </Placemark>
     <Placemark>
       <name>Shadsworth with Whitebirk</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Blackburn with Darwen<br>AREA_NAME: Shadsworth with Whitebirk<br>BL_ID: 023<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Blackburn with Darwen<br>BL_ID: 023<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Blackburn with Darwen</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Shadsworth with Whitebirk</value>
-        </Data>
         <Data name="BL_ID">
           <value>023</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -14651,26 +14582,23 @@
     </Placemark>
     <Placemark>
       <name>Rudheath and Witton Together</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Cheshire West and Chester<br>AREA_NAME: Rudheath and Witton Together<br>BL_ID: 024<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Cheshire West and Chester<br>BL_ID: 024<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Cheshire West and Chester</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Rudheath and Witton Together</value>
-        </Data>
         <Data name="BL_ID">
           <value>024</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -14979,26 +14907,23 @@
     </Placemark>
     <Placemark>
       <name>Kirkby Northwood</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Knowsley<br>AREA_NAME: Kirkby Northwood<br>BL_ID: 025<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Knowsley<br>BL_ID: 025<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Knowsley</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Kirkby Northwood</value>
-        </Data>
         <Data name="BL_ID">
           <value>025</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -15310,26 +15235,23 @@
     </Placemark>
     <Placemark>
       <name>Clubmoor</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Liverpool<br>AREA_NAME: Clubmoor<br>BL_ID: 026<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Liverpool<br>BL_ID: 026<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Liverpool</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Clubmoor</value>
-        </Data>
         <Data name="BL_ID">
           <value>026</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -15471,26 +15393,23 @@
     </Placemark>
     <Placemark>
       <name>Clarksfield/Greenacres/Littlemoor</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Oldham<br>AREA_NAME: Clarksfield/Greenacres/Littlemoor<br>BL_ID: 027<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Oldham<br>BL_ID: 027<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Oldham</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Clarksfield/Greenacres/Littlemoor</value>
-        </Data>
         <Data name="BL_ID">
           <value>027</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -15794,26 +15713,23 @@
     </Placemark>
     <Placemark>
       <name>Little Hulton</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Salford<br>AREA_NAME: Little Hulton<br>BL_ID: 028<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Salford<br>BL_ID: 028<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Salford</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Little Hulton</value>
-        </Data>
         <Data name="BL_ID">
           <value>028</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -16409,26 +16325,23 @@
     </Placemark>
     <Placemark>
       <name>Leigh West</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Wigan<br>AREA_NAME: Leigh West<br>BL_ID: 029<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Wigan<br>BL_ID: 029<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Wigan</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Leigh West</value>
-        </Data>
         <Data name="BL_ID">
           <value>029</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -16530,26 +16443,23 @@
     </Placemark>
     <Placemark>
       <name>Micklefield Ward and Ryemead</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Wycombe<br>AREA_NAME: Micklefield Ward and Ryemead<br>BL_ID: 030<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Wycombe<br>BL_ID: 030<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Wycombe</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Micklefield Ward and Ryemead</value>
-        </Data>
         <Data name="BL_ID">
           <value>030</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -19704,26 +19614,23 @@
     </Placemark>
     <Placemark>
       <name>Fratton</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Portsmouth<br>AREA_NAME: Fratton<br>BL_ID: 031<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Portsmouth<br>BL_ID: 031<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Portsmouth</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Fratton</value>
-        </Data>
         <Data name="BL_ID">
           <value>031</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -20683,26 +20590,23 @@
     </Placemark>
     <Placemark>
       <name>Harefield/Townhill</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Southampton<br>AREA_NAME: Harefield/Townhill<br>BL_ID: 032<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Southampton<br>BL_ID: 032<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Southampton</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Harefield/Townhill</value>
-        </Data>
         <Data name="BL_ID">
           <value>032</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <MultiGeometry>
@@ -21333,26 +21237,23 @@
     </Placemark>
     <Placemark>
       <name><![CDATA[Princes Ward & Town Ward]]></name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Dartford<br>AREA_NAME: Princes Ward &amp; Town Ward<br>BL_ID: 033<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Dartford<br>BL_ID: 033<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Dartford</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value><![CDATA[Princes Ward &amp; Town Ward]]></value>
-        </Data>
         <Data name="BL_ID">
           <value>033</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -22771,26 +22672,23 @@
     </Placemark>
     <Placemark>
       <name>Area of Northfleet North</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Gravesham<br>AREA_NAME: Area of Northfleet North<br>BL_ID: 034<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Gravesham<br>BL_ID: 034<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Gravesham</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Area of Northfleet North</value>
-        </Data>
         <Data name="BL_ID">
           <value>034</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -22913,26 +22811,23 @@
     </Placemark>
     <Placemark>
       <name>Littlemoor</name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: Weymouth<br>AREA_NAME: Littlemoor<br>BL_ID: 036<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: Weymouth<br>BL_ID: 036<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Weymouth</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Littlemoor</value>
-        </Data>
         <Data name="BL_ID">
           <value>036</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -23485,26 +23380,23 @@
     </Placemark>
     <Placemark>
       <name>Toothill</name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: Swindon<br>AREA_NAME: Toothill<br>BL_ID: 037<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: Swindon<br>BL_ID: 037<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Swindon</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Toothill</value>
-        </Data>
         <Data name="BL_ID">
           <value>037</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -23950,26 +23842,23 @@
     </Placemark>
     <Placemark>
       <name>Radstock</name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: Banes<br>AREA_NAME: Radstock<br>BL_ID: 038<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: Banes<br>BL_ID: 038<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Banes</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Radstock</value>
-        </Data>
         <Data name="BL_ID">
           <value>038</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -25251,26 +25140,23 @@
     </Placemark>
     <Placemark>
       <name>Gobowen, St Martins and Weston Rhyn</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Shropshire<br>AREA_NAME: Gobowen, St Martins and Weston Rhyn<br>BL_ID: 039<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Shropshire<br>BL_ID: 039<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Shropshire</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Gobowen, St Martins and Weston Rhyn</value>
-        </Data>
         <Data name="BL_ID">
           <value>039</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -25588,26 +25474,23 @@
     </Placemark>
     <Placemark>
       <name>Chell Heath and Fegg Hayes</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Stoke-on-Trent<br>AREA_NAME: Chell Heath and Fegg Hayes<br>BL_ID: 040<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Stoke-on-Trent<br>BL_ID: 040<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Stoke-on-Trent</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Chell Heath and Fegg Hayes</value>
-        </Data>
         <Data name="BL_ID">
           <value>040</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -25968,26 +25851,23 @@
     </Placemark>
     <Placemark>
       <name>East Coseley</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Dudley<br>AREA_NAME: East Coseley<br>BL_ID: 041<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Dudley<br>BL_ID: 041<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Dudley</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>East Coseley</value>
-        </Data>
         <Data name="BL_ID">
           <value>041</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -26672,26 +26552,23 @@
     </Placemark>
     <Placemark>
       <name>Grace Mary and Lion Farm</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Sandwell<br>AREA_NAME: Grace Mary and Lion Farm<br>BL_ID: 042<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Sandwell<br>BL_ID: 042<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Sandwell</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Grace Mary and Lion Farm</value>
-        </Data>
         <Data name="BL_ID">
           <value>042</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -27272,26 +27149,23 @@
     </Placemark>
     <Placemark>
       <name>Firs and Bromford</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Birmingham<br>AREA_NAME: Firs and Bromford<br>BL_ID: 043<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Birmingham<br>BL_ID: 043<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Birmingham</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Firs and Bromford</value>
-        </Data>
         <Data name="BL_ID">
           <value>043</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -27963,26 +27837,23 @@
     </Placemark>
     <Placemark>
       <name>Horsefair, Broadwaters and Greenhill</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Wyre Forest<br>AREA_NAME: Horsefair, Broadwaters and Greenhill<br>BL_ID: 044<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Wyre Forest<br>BL_ID: 044<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Wyre Forest</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Horsefair, Broadwaters and Greenhill</value>
-        </Data>
         <Data name="BL_ID">
           <value>044</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -28371,26 +28242,23 @@
     </Placemark>
     <Placemark>
       <name>Thurnscoe</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Barnsley<br>AREA_NAME: Thurnscoe<br>BL_ID: 045<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Barnsley<br>BL_ID: 045<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Barnsley</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Thurnscoe</value>
-        </Data>
         <Data name="BL_ID">
           <value>045</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -29088,26 +28956,23 @@
     </Placemark>
     <Placemark>
       <name>Dewsbury Moor</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Kirklees<br>AREA_NAME: Dewsbury Moor<br>BL_ID: 046<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Kirklees<br>BL_ID: 046<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Kirklees</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Dewsbury Moor</value>
-        </Data>
         <Data name="BL_ID">
           <value>046</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -29478,26 +29343,23 @@
     </Placemark>
     <Placemark>
       <name>Adwick-le-Street (Woodlands Estate)</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Doncaster<br>AREA_NAME: Adwick-le-Street (Woodlands Estate)<br>BL_ID: 047<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Doncaster<br>BL_ID: 047<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Doncaster</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Adwick-le-Street (Woodlands Estate)</value>
-        </Data>
         <Data name="BL_ID">
           <value>047</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -29670,26 +29532,23 @@
     </Placemark>
     <Placemark>
       <name>Greatfield Estate</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Hull<br>AREA_NAME: Greatfield Estate<br>BL_ID: 048<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Hull<br>BL_ID: 048<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Hull</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Greatfield Estate</value>
-        </Data>
         <Data name="BL_ID">
           <value>048</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -29861,26 +29720,23 @@
     </Placemark>
     <Placemark>
       <name>Winterton</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: North Lincolnshire<br>AREA_NAME: Winterton<br>BL_ID: 049<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: North Lincolnshire<br>BL_ID: 049<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>North Lincolnshire</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Winterton</value>
-        </Data>
         <Data name="BL_ID">
           <value>049</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -30497,26 +30353,23 @@
     </Placemark>
     <Placemark>
       <name>Warwick Estate, Knottingley</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Wakefield<br>AREA_NAME: Warwick Estate, Knottingley<br>BL_ID: 050<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Wakefield<br>BL_ID: 050<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Wakefield</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Warwick Estate, Knottingley</value>
-        </Data>
         <Data name="BL_ID">
           <value>050</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -30854,26 +30707,23 @@
     </Placemark>
     <Placemark>
       <name>St Blazey and Par</name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: Former district of Restormel<br>AREA_NAME: St Blazey and Par<br>BL_ID: 035<br>Wave: 1]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: Former district of Restormel<br>BL_ID: 035<br>Wave: 1<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Former district of Restormel</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>St Blazey and Par</value>
-        </Data>
         <Data name="BL_ID">
           <value>035</value>
         </Data>
         <Data name="Wave">
           <value>1</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -33371,26 +33221,23 @@
     </Placemark>
     <Placemark>
       <name>Worle</name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: North Somerset<br>AREA_NAME: Worle<br>BL_ID: 086<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: North Somerset<br>BL_ID: 086<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>North Somerset</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Worle</value>
-        </Data>
         <Data name="BL_ID">
           <value>086</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -33700,26 +33547,23 @@
     </Placemark>
     <Placemark>
       <name>Podsmead</name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: Gloucester<br>AREA_NAME: Podsmead<br>BL_ID: 087<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: Gloucester<br>BL_ID: 087<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Gloucester</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Podsmead</value>
-        </Data>
         <Data name="BL_ID">
           <value>087</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -34487,26 +34331,23 @@
     </Placemark>
     <Placemark>
       <name>Whitleigh</name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: Plymouth<br>AREA_NAME: Whitleigh<br>BL_ID: 085<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: Plymouth<br>BL_ID: 085<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Plymouth</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Whitleigh</value>
-        </Data>
         <Data name="BL_ID">
           <value>085</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -37036,19 +36877,13 @@
     </Placemark>
     <Placemark>
       <name>Birmingham</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Birmingham<br>AREA_NAME: Birmingham<br>BL_ID: 088<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Birmingham<br>BL_ID: 088<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Birmingham</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Birmingham</value>
         </Data>
         <Data name="BL_ID">
@@ -37056,6 +36891,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <MultiGeometry>
@@ -37109,19 +36947,13 @@
     </Placemark>
     <Placemark>
       <name>Cannock Chase</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Cannock Chase<br>AREA_NAME: Cannock Chase<br>BL_ID: 089<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Cannock Chase<br>BL_ID: 089<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Cannock Chase</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Cannock Chase</value>
         </Data>
         <Data name="BL_ID">
@@ -37129,6 +36961,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -37157,26 +36992,23 @@
     </Placemark>
     <Placemark>
       <name>Nuneaton and Bedford</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Nuneaton and Bedworth<br>AREA_NAME: Nuneaton and Bedford<br>BL_ID: 090<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Nuneaton and Bedworth<br>BL_ID: 090<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Nuneaton and Bedworth</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Nuneaton and Bedford</value>
-        </Data>
         <Data name="BL_ID">
           <value>090</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <MultiGeometry>
@@ -37250,19 +37082,13 @@
     </Placemark>
     <Placemark>
       <name>Redditch</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Redditch<br>AREA_NAME: Redditch<br>BL_ID: 091<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Redditch<br>BL_ID: 091<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Redditch</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Redditch</value>
         </Data>
         <Data name="BL_ID">
@@ -37270,6 +37096,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -37368,26 +37197,23 @@
     </Placemark>
     <Placemark>
       <name>Telford</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Telford and Wrekin<br>AREA_NAME: Telford<br>BL_ID: 092<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Telford and Wrekin<br>BL_ID: 092<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Telford and Wrekin</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Telford</value>
-        </Data>
         <Data name="BL_ID">
           <value>092</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -37422,19 +37248,13 @@
     </Placemark>
     <Placemark>
       <name>Walsall</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Walsall<br>AREA_NAME: Walsall<br>BL_ID: 093<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Walsall<br>BL_ID: 093<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Walsall</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Walsall</value>
         </Data>
         <Data name="BL_ID">
@@ -37442,6 +37262,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -37499,19 +37322,13 @@
     </Placemark>
     <Placemark>
       <name>Wolverhampton</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Wolverhampton<br>AREA_NAME: Wolverhampton<br>BL_ID: 094<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Wolverhampton<br>BL_ID: 094<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Wolverhampton</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Wolverhampton</value>
         </Data>
         <Data name="BL_ID">
@@ -37519,6 +37336,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -37603,19 +37423,13 @@
     </Placemark>
     <Placemark>
       <name>Calderdale</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Calderdale<br>AREA_NAME: Calderdale<br>BL_ID: 100<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Calderdale<br>BL_ID: 100<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Calderdale</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Calderdale</value>
         </Data>
         <Data name="BL_ID">
@@ -37623,6 +37437,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -38660,26 +38477,23 @@
     </Placemark>
     <Placemark>
       <name>Leeds Hawksworth Wood</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Leeds<br>AREA_NAME: Leeds Hawksworth Wood<br>BL_ID: 099<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Leeds<br>BL_ID: 099<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Leeds</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Leeds Hawksworth Wood</value>
-        </Data>
         <Data name="BL_ID">
           <value>099</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -38938,19 +38752,13 @@
     </Placemark>
     <Placemark>
       <name>North East Lincolnshire</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: North East Lincolnshire<br>AREA_NAME: North East Lincolnshire<br>BL_ID: 098<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: North East Lincolnshire<br>BL_ID: 098<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>North East Lincolnshire</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>North East Lincolnshire</value>
         </Data>
         <Data name="BL_ID">
@@ -38958,6 +38766,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -40274,19 +40085,13 @@
     </Placemark>
     <Placemark>
       <name>Rotherham</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Rotherham<br>AREA_NAME: Rotherham<br>BL_ID: 096<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Rotherham<br>BL_ID: 096<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Rotherham</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Rotherham</value>
         </Data>
         <Data name="BL_ID">
@@ -40294,6 +40099,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -41228,19 +41036,13 @@
     </Placemark>
     <Placemark>
       <name>Scarborough</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Scarborough<br>AREA_NAME: Scarborough<br>BL_ID: 095<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Scarborough<br>BL_ID: 095<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Scarborough</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Scarborough</value>
         </Data>
         <Data name="BL_ID">
@@ -41248,6 +41050,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -41334,26 +41139,23 @@
     </Placemark>
     <Placemark>
       <name>Bradford Scholemoor</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Bradford<br>AREA_NAME: Bradford Scholemoor<br>BL_ID: 097<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Bradford<br>BL_ID: 097<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Bradford</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Bradford Scholemoor</value>
-        </Data>
         <Data name="BL_ID">
           <value>097</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -41528,19 +41330,13 @@
     </Placemark>
     <Placemark>
       <name>Blackpool</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Blackpool<br>AREA_NAME: Blackpool<br>BL_ID: 071<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Blackpool<br>BL_ID: 071<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Blackpool</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Blackpool</value>
         </Data>
         <Data name="BL_ID">
@@ -41548,6 +41344,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -41669,19 +41468,13 @@
     </Placemark>
     <Placemark>
       <name>Bolton</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Bolton<br>AREA_NAME: Bolton<br>BL_ID: 072<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Bolton<br>BL_ID: 072<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Bolton</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Bolton</value>
         </Data>
         <Data name="BL_ID">
@@ -41689,6 +41482,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -41819,19 +41615,13 @@
     </Placemark>
     <Placemark>
       <name>Burnley</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Burnley<br>AREA_NAME: Burnley<br>BL_ID: 073<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Burnley<br>BL_ID: 073<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Burnley</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Burnley</value>
         </Data>
         <Data name="BL_ID">
@@ -41839,6 +41629,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -42037,19 +41830,13 @@
     </Placemark>
     <Placemark>
       <name>Pendle</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Pendle<br>AREA_NAME: Pendle<br>BL_ID: 076<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Pendle<br>BL_ID: 076<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Pendle</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Pendle</value>
         </Data>
         <Data name="BL_ID">
@@ -42057,6 +41844,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -43327,26 +43117,23 @@
     </Placemark>
     <Placemark>
       <name>Runcorn</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Halton<br>AREA_NAME: Runcorn<br>BL_ID: 074<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Halton<br>BL_ID: 074<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Halton</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Runcorn</value>
-        </Data>
         <Data name="BL_ID">
           <value>074</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -44287,19 +44074,13 @@
     </Placemark>
     <Placemark>
       <name>Sefton</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Sefton<br>AREA_NAME: Sefton<br>BL_ID: 077<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Sefton<br>BL_ID: 077<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Sefton</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Sefton</value>
         </Data>
         <Data name="BL_ID">
@@ -44307,6 +44088,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -44541,19 +44325,13 @@
     </Placemark>
     <Placemark>
       <name>Hartlepool</name>
-      <description><![CDATA[description: <br>REGION: NE<br>AUTHORITY: Hartlepool<br>AREA_NAME: Hartlepool<br>BL_ID: 069<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NE<br>AUTHORITY: Hartlepool<br>BL_ID: 069<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NE</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Hartlepool</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Hartlepool</value>
         </Data>
         <Data name="BL_ID">
@@ -44561,6 +44339,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -44979,26 +44760,23 @@
     </Placemark>
     <Placemark>
       <name>Jarrow</name>
-      <description><![CDATA[description: <br>REGION: NE<br>AUTHORITY: South Tyneside<br>AREA_NAME: Jarrow<br>BL_ID: 067<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NE<br>AUTHORITY: South Tyneside<br>BL_ID: 067<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>South Tyneside</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Jarrow</value>
-        </Data>
         <Data name="BL_ID">
           <value>067</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -45074,19 +44852,13 @@
     </Placemark>
     <Placemark>
       <name>North Tyneside</name>
-      <description><![CDATA[description: <br>REGION: NE<br>AUTHORITY: North Tyneside<br>AREA_NAME: North Tyneside<br>BL_ID: 068<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NE<br>AUTHORITY: North Tyneside<br>BL_ID: 068<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NE</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>North Tyneside</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>North Tyneside</value>
         </Data>
         <Data name="BL_ID">
@@ -45094,6 +44866,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -45404,19 +45179,13 @@
     </Placemark>
     <Placemark>
       <name>Sunderland</name>
-      <description><![CDATA[description: <br>REGION: NE<br>AUTHORITY: Sunderland<br>AREA_NAME: Sunderland<br>BL_ID: 070<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NE<br>AUTHORITY: Sunderland<br>BL_ID: 070<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NE</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Sunderland</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Sunderland</value>
         </Data>
         <Data name="BL_ID">
@@ -45424,6 +45193,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -45839,19 +45611,13 @@
     </Placemark>
     <Placemark>
       <name>Tameside</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Tameside<br>AREA_NAME: Tameside<br>BL_ID: 078<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Tameside<br>BL_ID: 078<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Tameside</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Tameside</value>
         </Data>
         <Data name="BL_ID">
@@ -45859,6 +45625,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -46153,19 +45922,13 @@
     </Placemark>
     <Placemark>
       <name>Bassetlaw</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: Bassetlaw<br>AREA_NAME: Bassetlaw<br>BL_ID: 057<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: Bassetlaw<br>BL_ID: 057<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Bassetlaw</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Bassetlaw</value>
         </Data>
         <Data name="BL_ID">
@@ -46173,6 +45936,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -46263,19 +46029,13 @@
     </Placemark>
     <Placemark>
       <name>Corby</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: Corby<br>AREA_NAME: Corby<br>BL_ID: 056<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: Corby<br>BL_ID: 056<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Corby</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Corby</value>
         </Data>
         <Data name="BL_ID">
@@ -46283,6 +46043,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -46998,19 +46761,13 @@
     </Placemark>
     <Placemark>
       <name>Leicester</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: Leicester<br>AREA_NAME: Leicester<br>BL_ID: 058<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: Leicester<br>BL_ID: 058<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Leicester</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Leicester</value>
         </Data>
         <Data name="BL_ID">
@@ -47018,6 +46775,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -47223,19 +46983,13 @@
     </Placemark>
     <Placemark>
       <name>Lincoln</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: Lincoln<br>AREA_NAME: Lincoln<br>BL_ID: 055<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: Lincoln<br>BL_ID: 055<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Lincoln</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Lincoln</value>
         </Data>
         <Data name="BL_ID">
@@ -47243,6 +46997,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -47292,26 +47049,23 @@
     </Placemark>
     <Placemark>
       <name>Pitsea Broomfields</name>
-      <description><![CDATA[description: <br>REGION: EA<br>AUTHORITY: Basildon<br>AREA_NAME: Pitsea Broomfields<br>BL_ID: 054<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: EA<br>AUTHORITY: Basildon<br>BL_ID: 054<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EA</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Basildon</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Pitsea Broomfields</value>
-        </Data>
         <Data name="BL_ID">
           <value>054</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -47622,26 +47376,23 @@
     </Placemark>
     <Placemark>
       <name>Wormley and Tumford</name>
-      <description><![CDATA[description: <br>REGION: EA<br>AUTHORITY: Broxbourne<br>AREA_NAME: Wormley and Tumford<br>BL_ID: 053<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: EA<br>AUTHORITY: Broxbourne<br>BL_ID: 053<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EA</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Broxbourne</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Wormley and Tumford</value>
-        </Data>
         <Data name="BL_ID">
           <value>053</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -48559,26 +48310,23 @@
     </Placemark>
     <Placemark>
       <name>Canvey Island</name>
-      <description><![CDATA[description: <br>REGION: EA<br>AUTHORITY: Castle Point<br>AREA_NAME: Canvey Island<br>BL_ID: 051<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: EA<br>AUTHORITY: Castle Point<br>BL_ID: 051<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EA</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Castle Point</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Canvey Island</value>
-        </Data>
         <Data name="BL_ID">
           <value>051</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -48893,26 +48641,23 @@
     </Placemark>
     <Placemark>
       <name>Ravensthorpe and Westwood</name>
-      <description><![CDATA[description: <br>REGION: EA<br>AUTHORITY: Peterborough<br>AREA_NAME: Ravensthorpe and Westwood<br>BL_ID: 052<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: EA<br>AUTHORITY: Peterborough<br>BL_ID: 052<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EA</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Peterborough</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Ravensthorpe and Westwood</value>
-        </Data>
         <Data name="BL_ID">
           <value>052</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -49317,19 +49062,13 @@
     </Placemark>
     <Placemark>
       <name>Barking and Dagenham</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Barking and Dagenham<br>AREA_NAME: Barking and Dagenham<br>BL_ID: 066<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Barking and Dagenham<br>BL_ID: 066<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Barking and Dagenham</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Barking and Dagenham</value>
         </Data>
         <Data name="BL_ID">
@@ -49337,6 +49076,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -49890,19 +49632,13 @@
     </Placemark>
     <Placemark>
       <name>Bexley</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Bexley<br>AREA_NAME: Bexley<br>BL_ID: 059<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Bexley<br>BL_ID: 059<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Bexley</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Bexley</value>
         </Data>
         <Data name="BL_ID">
@@ -49910,6 +49646,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -49995,26 +49734,23 @@
     </Placemark>
     <Placemark>
       <name>Chinbrook Estate</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Lewisham<br>AREA_NAME: Chinbrook Estate<br>BL_ID: 065<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Lewisham<br>BL_ID: 065<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Lewisham</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Chinbrook Estate</value>
-        </Data>
         <Data name="BL_ID">
           <value>065</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -50149,26 +49885,23 @@
     </Placemark>
     <Placemark>
       <name>Clapham Junction</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Wandsworth<br>AREA_NAME: Clapham Junction<br>BL_ID: 061<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Wandsworth<br>BL_ID: 061<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Wandsworth</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Clapham Junction</value>
-        </Data>
         <Data name="BL_ID">
           <value>061</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -50514,19 +50247,13 @@
     </Placemark>
     <Placemark>
       <name>Croydon</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Croydon<br>AREA_NAME: Croydon<br>BL_ID: 060<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Croydon<br>BL_ID: 060<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Croydon</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Croydon</value>
         </Data>
         <Data name="BL_ID">
@@ -50534,6 +50261,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -50974,19 +50704,13 @@
     </Placemark>
     <Placemark>
       <name>Ealing</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Ealing<br>AREA_NAME: Ealing<br>BL_ID: 062<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Ealing<br>BL_ID: 062<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Ealing</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Ealing</value>
         </Data>
         <Data name="BL_ID">
@@ -50994,6 +50718,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -51049,19 +50776,13 @@
     </Placemark>
     <Placemark>
       <name>Enfield</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Enfield<br>AREA_NAME: Enfield<br>BL_ID: 063<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Enfield<br>BL_ID: 063<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Enfield</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Enfield</value>
         </Data>
         <Data name="BL_ID">
@@ -51069,6 +50790,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -51122,19 +50846,13 @@
     </Placemark>
     <Placemark>
       <name>Haringey</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Haringey<br>AREA_NAME: Haringey<br>BL_ID: 064<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Haringey<br>BL_ID: 064<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Haringey</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Haringey</value>
         </Data>
         <Data name="BL_ID">
@@ -51142,6 +50860,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -51587,26 +51308,23 @@
     </Placemark>
     <Placemark>
       <name>Chatham</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Medway<br>AREA_NAME: Chatham<br>BL_ID: 084<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Medway<br>BL_ID: 084<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Medway</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Chatham</value>
-        </Data>
         <Data name="BL_ID">
           <value>084</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -51722,26 +51440,23 @@
     </Placemark>
     <Placemark>
       <name>Ore</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Hastings<br>AREA_NAME: Ore<br>BL_ID: 081<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Hastings<br>BL_ID: 081<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Hastings</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Ore</value>
-        </Data>
         <Data name="BL_ID">
           <value>081</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -52633,26 +52348,23 @@
     </Placemark>
     <Placemark>
       <name>Conniburrow Estate</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Milton Keynes<br>AREA_NAME: Conniburrow Estate<br>BL_ID: 080<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Milton Keynes<br>BL_ID: 080<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Milton Keynes</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Conniburrow Estate</value>
-        </Data>
         <Data name="BL_ID">
           <value>080</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -52964,26 +52676,23 @@
     </Placemark>
     <Placemark>
       <name>Prospect Estate</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Rushmoor<br>AREA_NAME: Prospect Estate<br>BL_ID: 079<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Rushmoor<br>BL_ID: 079<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Rushmoor</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Prospect Estate</value>
-        </Data>
         <Data name="BL_ID">
           <value>079</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -53297,26 +53006,23 @@
     </Placemark>
     <Placemark>
       <name>Laysdown, Warden and Eastchurch</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Swale<br>AREA_NAME: Laysdown, Warden and Eastchurch<br>BL_ID: 083<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Swale<br>BL_ID: 083<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Swale</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Laysdown, Warden and Eastchurch</value>
-        </Data>
         <Data name="BL_ID">
           <value>083</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -54678,26 +54384,23 @@
     </Placemark>
     <Placemark>
       <name>Sidley</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Rother<br>AREA_NAME: Sidley<br>BL_ID: 082<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Rother<br>BL_ID: 082<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Rother</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Sidley</value>
-        </Data>
         <Data name="BL_ID">
           <value>082</value>
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -54827,19 +54530,13 @@
     </Placemark>
     <Placemark>
       <name>Manchester</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Manchester<br>AREA_NAME: Manchester<br>BL_ID: 075<br>Wave: 2]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Manchester<br>BL_ID: 075<br>Wave: 2<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
-          <value>Manchester</value>
-        </Data>
-        <Data name="AREA_NAME">
           <value>Manchester</value>
         </Data>
         <Data name="BL_ID">
@@ -54847,6 +54544,9 @@
         </Data>
         <Data name="Wave">
           <value>2</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -54945,26 +54645,23 @@
     </Placemark>
     <Placemark>
       <name>Aberfeldy</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Tower Hamlets<br>AREA_NAME: Aberfeldy<br>BL_ID: 114<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Tower Hamlets<br>BL_ID: 114<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Tower Hamlets</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Aberfeldy</value>
-        </Data>
         <Data name="BL_ID">
           <value>114</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <MultiGeometry>
@@ -55100,26 +54797,23 @@
     </Placemark>
     <Placemark>
       <name>Sompting</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Adur<br>AREA_NAME: Sompting<br>BL_ID: 129<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Adur<br>BL_ID: 129<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Adur</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Sompting</value>
-        </Data>
         <Data name="BL_ID">
           <value>129</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -55563,26 +55257,23 @@
     </Placemark>
     <Placemark>
       <name>The Grange Estate</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Barnet<br>AREA_NAME: The Grange Estate<br>BL_ID: 108<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Barnet<br>BL_ID: 108<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Barnet</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>The Grange Estate</value>
-        </Data>
         <Data name="BL_ID">
           <value>108</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -55904,26 +55595,23 @@
     </Placemark>
     <Placemark>
       <name>Goldthorpe with Bolton-on-Dearne</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Barnsley<br>AREA_NAME: Goldthorpe with Bolton-on-Dearne<br>BL_ID: 145<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Barnsley<br>BL_ID: 145<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Barnsley</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Goldthorpe with Bolton-on-Dearne</value>
-        </Data>
         <Data name="BL_ID">
           <value>145</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -56844,26 +56532,23 @@
     </Placemark>
     <Placemark>
       <name>Beechwood</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Wirral<br>AREA_NAME: Beechwood<br>BL_ID: 128<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Wirral<br>BL_ID: 128<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Wirral</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Beechwood</value>
-        </Data>
         <Data name="BL_ID">
           <value>128</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -57451,26 +57136,23 @@
     </Placemark>
     <Placemark>
       <name>Welsh House Farm</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Birmingham<br>AREA_NAME: Welsh House Farm<br>BL_ID: 139<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Birmingham<br>BL_ID: 139<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Birmingham</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Welsh House Farm</value>
-        </Data>
         <Data name="BL_ID">
           <value>139</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -57750,26 +57432,23 @@
     </Placemark>
     <Placemark>
       <name>Central Boston</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: Boston<br>AREA_NAME: Central Boston<br>BL_ID: 102<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: Boston<br>BL_ID: 102<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Boston</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Central Boston</value>
-        </Data>
         <Data name="BL_ID">
           <value>102</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -58489,26 +58168,23 @@
     </Placemark>
     <Placemark>
       <name>Wembley Central</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Brent<br>AREA_NAME: Wembley Central<br>BL_ID: 109<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Brent<br>BL_ID: 109<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Brent</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Wembley Central</value>
-        </Data>
         <Data name="BL_ID">
           <value>109</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -58935,26 +58611,23 @@
     </Placemark>
     <Placemark>
       <name>Somers Town</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Camden<br>AREA_NAME: Somers Town<br>BL_ID: 110<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Camden<br>BL_ID: 110<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Camden</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Somers Town</value>
-        </Data>
         <Data name="BL_ID">
           <value>110</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -59181,26 +58854,23 @@
     </Placemark>
     <Placemark>
       <name><![CDATA[St Peter's and the Moors]]></name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: Cheltenham<br>AREA_NAME: St Peter's and the Moors<br>BL_ID: 136<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: Cheltenham<br>BL_ID: 136<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Cheltenham</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value><![CDATA[St Peter's and the Moors]]></value>
-        </Data>
         <Data name="BL_ID">
           <value>136</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -59349,26 +59019,23 @@
     </Placemark>
     <Placemark>
       <name>Elmton with Creswell</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: Bolsover<br>AREA_NAME: Elmton with Creswell<br>BL_ID: 101<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: Bolsover<br>BL_ID: 101<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Bolsover</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Elmton with Creswell</value>
-        </Data>
         <Data name="BL_ID">
           <value>101</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -61155,26 +60822,23 @@
     </Placemark>
     <Placemark>
       <name>Distington</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Copeland<br>AREA_NAME: Distington<br>BL_ID: 120<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Copeland<br>BL_ID: 120<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Copeland</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Distington</value>
-        </Data>
         <Data name="BL_ID">
           <value>120</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -61293,26 +60957,23 @@
     </Placemark>
     <Placemark>
       <name>Dover Town</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Dover<br>AREA_NAME: Dover Town<br>BL_ID: 130<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Dover<br>BL_ID: 130<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Dover</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Dover Town</value>
-        </Data>
         <Data name="BL_ID">
           <value>130</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -61720,26 +61381,23 @@
     </Placemark>
     <Placemark>
       <name>The Heath</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: East Staffordshire<br>AREA_NAME: The Heath<br>BL_ID: 140<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: East Staffordshire<br>BL_ID: 140<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>East Staffordshire</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>The Heath</value>
-        </Data>
         <Data name="BL_ID">
           <value>140</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -62018,26 +61676,23 @@
     </Placemark>
     <Placemark>
       <name>Devonshire West</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Eastbourne<br>AREA_NAME: Devonshire West<br>BL_ID: 131<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Eastbourne<br>BL_ID: 131<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Eastbourne</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Devonshire West</value>
-        </Data>
         <Data name="BL_ID">
           <value>131</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -62373,26 +62028,23 @@
     </Placemark>
     <Placemark>
       <name>Grassmoor and Hasland</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: North East Derbyshire<br>AREA_NAME: Grassmoor and Hasland<br>BL_ID: 104<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: North East Derbyshire<br>BL_ID: 104<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>North East Derbyshire</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Grassmoor and Hasland</value>
-        </Data>
         <Data name="BL_ID">
           <value>104</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -63830,26 +63482,23 @@
     </Placemark>
     <Placemark>
       <name>Wecock Farm</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Havant<br>AREA_NAME: Wecock Farm<br>BL_ID: 132<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Havant<br>BL_ID: 132<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Havant</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Wecock Farm</value>
-        </Data>
         <Data name="BL_ID">
           <value>132</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -64250,26 +63899,23 @@
     </Placemark>
     <Placemark>
       <name>Keighley Valley</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Bradford<br>AREA_NAME: Keighley Valley<br>BL_ID: 146<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Bradford<br>BL_ID: 146<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Bradford</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Keighley Valley</value>
-        </Data>
         <Data name="BL_ID">
           <value>146</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -64512,26 +64158,23 @@
     </Placemark>
     <Placemark>
       <name>Kirk Hallam</name>
-      <description><![CDATA[description: <br>REGION: EM<br>AUTHORITY: Erewash<br>AREA_NAME: Kirk Hallam<br>BL_ID: 103<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: EM<br>AUTHORITY: Erewash<br>BL_ID: 103<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Erewash</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Kirk Hallam</value>
-        </Data>
         <Data name="BL_ID">
           <value>103</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -64982,26 +64625,23 @@
     </Placemark>
     <Placemark>
       <name>Farley Hill</name>
-      <description><![CDATA[description: <br>REGION: EA<br>AUTHORITY: Luton<br>AREA_NAME: Farley Hill<br>BL_ID: 105<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: EA<br>AUTHORITY: Luton<br>BL_ID: 105<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EA</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Luton</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Farley Hill</value>
-        </Data>
         <Data name="BL_ID">
           <value>105</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -65715,26 +65355,23 @@
     </Placemark>
     <Placemark>
       <name>Lynemouth, Ellington and Linton</name>
-      <description><![CDATA[description: <br>REGION: NE<br>AUTHORITY: Northumberland<br>AREA_NAME: Lynemouth, Ellington and Linton<br>BL_ID: 118<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NE<br>AUTHORITY: Northumberland<br>BL_ID: 118<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Northumberland</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Lynemouth, Ellington and Linton</value>
-        </Data>
         <Data name="BL_ID">
           <value>118</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -67505,26 +67142,23 @@
     </Placemark>
     <Placemark>
       <name>West End, Morecambe</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Lancaster<br>AREA_NAME: West End, Morecambe<br>BL_ID: 121<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Lancaster<br>BL_ID: 121<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Lancaster</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>West End, Morecambe</value>
-        </Data>
         <Data name="BL_ID">
           <value>121</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -67870,26 +67504,23 @@
     </Placemark>
     <Placemark>
       <name>North Ormesby</name>
-      <description><![CDATA[description: <br>REGION: NE<br>AUTHORITY: Middlesbrough<br>AREA_NAME: North Ormesby<br>BL_ID: 117<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NE<br>AUTHORITY: Middlesbrough<br>BL_ID: 117<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Middlesbrough</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>North Ormesby</value>
-        </Data>
         <Data name="BL_ID">
           <value>117</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -68147,26 +67778,23 @@
     </Placemark>
     <Placemark>
       <name><![CDATA[Arley and Ansley (The Ley's)]]></name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: North Warwickshire<br>AREA_NAME: Arley and Ansley (The Ley's)<br>BL_ID: 141<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: North Warwickshire<br>BL_ID: 141<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>North Warwickshire</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value><![CDATA[Arley and Ansley (The Ley's)]]></value>
-        </Data>
         <Data name="BL_ID">
           <value>141</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -69138,26 +68766,23 @@
     </Placemark>
     <Placemark>
       <name>Catton Grove</name>
-      <description><![CDATA[description: <br>REGION: EA<br>AUTHORITY: Norwich<br>AREA_NAME: Catton Grove<br>BL_ID: 106<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: EA<br>AUTHORITY: Norwich<br>BL_ID: 106<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EA</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Norwich</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Catton Grove</value>
-        </Data>
         <Data name="BL_ID">
           <value>106</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -69372,26 +68997,23 @@
     </Placemark>
     <Placemark>
       <name>Plaistow South</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Newham<br>AREA_NAME: Plaistow South<br>BL_ID: 113<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Newham<br>BL_ID: 113<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Newham</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Plaistow South</value>
-        </Data>
         <Data name="BL_ID">
           <value>113</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -69609,26 +69231,23 @@
     </Placemark>
     <Placemark>
       <name>Inner East Preston</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Preston<br>AREA_NAME: Inner East Preston<br>BL_ID: 122<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Preston<br>BL_ID: 122<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Preston</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Inner East Preston</value>
-        </Data>
         <Data name="BL_ID">
           <value>122</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -70269,26 +69888,23 @@
     </Placemark>
     <Placemark>
       <name>Communities of Woolavington and Puriton</name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: Sedgemoor<br>AREA_NAME: Communities of Woolavington and Puriton<br>BL_ID: 138<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: Sedgemoor<br>BL_ID: 138<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Sedgemoor</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Communities of Woolavington and Puriton</value>
-        </Data>
         <Data name="BL_ID">
           <value>138</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -71151,26 +70767,23 @@
     </Placemark>
     <Placemark>
       <name>Newington, Ramsgate</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Thanet<br>AREA_NAME: Newington, Ramsgate<br>BL_ID: 134<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Thanet<br>BL_ID: 134<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Thanet</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Newington, Ramsgate</value>
-        </Data>
         <Data name="BL_ID">
           <value>134</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -71825,26 +71438,23 @@
     </Placemark>
     <Placemark>
       <name>Whitley</name>
-      <description><![CDATA[description: <br>REGION: SE<br>AUTHORITY: Reading<br>AREA_NAME: Whitley<br>BL_ID: 133<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: SE<br>AUTHORITY: Reading<br>BL_ID: 133<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Reading</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Whitley</value>
-        </Data>
         <Data name="BL_ID">
           <value>133</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -72453,26 +72063,23 @@
     </Placemark>
     <Placemark>
       <name>Kirkholt</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Rochdale<br>AREA_NAME: Kirkholt<br>BL_ID: 123<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Rochdale<br>BL_ID: 123<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Rochdale</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Kirkholt</value>
-        </Data>
         <Data name="BL_ID">
           <value>123</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -72906,26 +72513,23 @@
     </Placemark>
     <Placemark>
       <name>Roseworth</name>
-      <description><![CDATA[description: <br>REGION: NE<br>AUTHORITY: Stockton<br>AREA_NAME: Roseworth<br>BL_ID: 119<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NE<br>AUTHORITY: Stockton<br>BL_ID: 119<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NE</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Stockton</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Roseworth</value>
-        </Data>
         <Data name="BL_ID">
           <value>119</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -73446,26 +73050,23 @@
     </Placemark>
     <Placemark>
       <name>Hateley Heath</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Sandwell<br>AREA_NAME: Hateley Heath<br>BL_ID: 142<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Sandwell<br>BL_ID: 142<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Sandwell</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Hateley Heath</value>
-        </Data>
         <Data name="BL_ID">
           <value>142</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -74144,26 +73745,23 @@
     </Placemark>
     <Placemark>
       <name>Selby Town</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Selby<br>AREA_NAME: Selby Town<br>BL_ID: 148<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Selby<br>BL_ID: 148<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Selby</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Selby Town</value>
-        </Data>
         <Data name="BL_ID">
           <value>148</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -74593,26 +74191,23 @@
     </Placemark>
     <Placemark>
       <name>Westfield Estate</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: Sheffield<br>AREA_NAME: Westfield Estate<br>BL_ID: 149<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: Sheffield<br>BL_ID: 149<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Sheffield</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Westfield Estate</value>
-        </Data>
         <Data name="BL_ID">
           <value>149</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -74899,26 +74494,23 @@
     </Placemark>
     <Placemark>
       <name>The Cars Estate</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Solihull<br>AREA_NAME: The Cars Estate<br>BL_ID: 143<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Solihull<br>BL_ID: 143<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Solihull</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>The Cars Estate</value>
-        </Data>
         <Data name="BL_ID">
           <value>143</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -75179,26 +74771,23 @@
     </Placemark>
     <Placemark>
       <name>Brinnington</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Stockport<br>AREA_NAME: Brinnington<br>BL_ID: 125<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Stockport<br>BL_ID: 125<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Stockport</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Brinnington</value>
-        </Data>
         <Data name="BL_ID">
           <value>125</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -75625,26 +75214,23 @@
     </Placemark>
     <Placemark>
       <name>Grays Riverside</name>
-      <description><![CDATA[description: <br>REGION: EA<br>AUTHORITY: Thurrock<br>AREA_NAME: Grays Riverside<br>BL_ID: 107<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: EA<br>AUTHORITY: Thurrock<br>BL_ID: 107<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>EA</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Thurrock</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Grays Riverside</value>
-        </Data>
         <Data name="BL_ID">
           <value>107</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -75885,26 +75471,23 @@
     </Placemark>
     <Placemark>
       <name>Sale West</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Trafford<br>AREA_NAME: Sale West<br>BL_ID: 126<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Trafford<br>BL_ID: 126<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Trafford</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Sale West</value>
-        </Data>
         <Data name="BL_ID">
           <value>126</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -76286,26 +75869,23 @@
     </Placemark>
     <Placemark>
       <name>Palfrey</name>
-      <description><![CDATA[description: <br>REGION: WM<br>AUTHORITY: Walsall<br>AREA_NAME: Palfrey<br>BL_ID: 144<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: WM<br>AUTHORITY: Walsall<br>BL_ID: 144<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>WM</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Walsall</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Palfrey</value>
-        </Data>
         <Data name="BL_ID">
           <value>144</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -76608,26 +76188,23 @@
     </Placemark>
     <Placemark>
       <name>St James Street Area</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Waltham Forest<br>AREA_NAME: St James Street Area<br>BL_ID: 115<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Waltham Forest<br>BL_ID: 115<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Waltham Forest</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>St James Street Area</value>
-        </Data>
         <Data name="BL_ID">
           <value>115</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -76864,26 +76441,23 @@
     </Placemark>
     <Placemark>
       <name>Wargrave</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: St Helens<br>AREA_NAME: Wargrave<br>BL_ID: 124<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: St Helens<br>BL_ID: 124<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>St Helens</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Wargrave</value>
-        </Data>
         <Data name="BL_ID">
           <value>124</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -77377,26 +76951,23 @@
     </Placemark>
     <Placemark>
       <name>Westy</name>
-      <description><![CDATA[description: <br>REGION: NW<br>AUTHORITY: Warrington<br>AREA_NAME: Westy<br>BL_ID: 127<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: NW<br>AUTHORITY: Warrington<br>BL_ID: 127<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>NW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Warrington</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Westy</value>
-        </Data>
         <Data name="BL_ID">
           <value>127</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -78750,26 +78321,23 @@
     </Placemark>
     <Placemark>
       <name>Peabody Avenue and Churchill Gardens Estate</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Westminster<br>AREA_NAME: Peabody Avenue and Churchill Gardens Estate<br>BL_ID: 116<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Westminster<br>BL_ID: 116<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Westminster</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Peabody Avenue and Churchill Gardens Estate</value>
-        </Data>
         <Data name="BL_ID">
           <value>116</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -78899,26 +78467,23 @@
     </Placemark>
     <Placemark>
       <name>Withernsea</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: East Riding of Yorkshire<br>AREA_NAME: Withernsea<br>BL_ID: 147<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: East Riding of Yorkshire<br>BL_ID: 147<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>East Riding of Yorkshire</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Withernsea</value>
-        </Data>
         <Data name="BL_ID">
           <value>147</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -79085,26 +78650,23 @@
     </Placemark>
     <Placemark>
       <name>Worlds End Estate and Lots Road Area</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Kensington and Chelsea<br>AREA_NAME: Worlds End Estate and Lots Road Area<br>BL_ID: 112<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Kensington and Chelsea<br>BL_ID: 112<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Kensington and Chelsea</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Worlds End Estate and Lots Road Area</value>
-        </Data>
         <Data name="BL_ID">
           <value>112</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -79313,26 +78875,23 @@
     </Placemark>
     <Placemark>
       <name>Tang Hall</name>
-      <description><![CDATA[description: <br>REGION: YH<br>AUTHORITY: York<br>AREA_NAME: Tang Hall<br>BL_ID: 150<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: YH<br>AUTHORITY: York<br>BL_ID: 150<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>YH</value>
         </Data>
         <Data name="AUTHORITY">
           <value>York</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Tang Hall</value>
-        </Data>
         <Data name="BL_ID">
           <value>150</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -80359,26 +79918,23 @@
     </Placemark>
     <Placemark>
       <name>Elthorne Estates</name>
-      <description><![CDATA[description: <br>REGION: LO<br>AUTHORITY: Islington<br>AREA_NAME: Elthorne Estates<br>BL_ID: 111<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: LO<br>AUTHORITY: Islington<br>BL_ID: 111<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>LO</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Islington</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Elthorne Estates</value>
-        </Data>
         <Data name="BL_ID">
           <value>111</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -80736,26 +80292,23 @@
     </Placemark>
     <Placemark>
       <name>Lawrence Weston</name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: Bristol<br>AREA_NAME: Lawrence Weston<br>BL_ID: 135<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: Bristol<br>BL_ID: 135<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Bristol</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Lawrence Weston</value>
-        </Data>
         <Data name="BL_ID">
           <value>135</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
@@ -81025,26 +80578,23 @@
     </Placemark>
     <Placemark>
       <name>Bourne Estate</name>
-      <description><![CDATA[description: <br>REGION: SW<br>AUTHORITY: Poole<br>AREA_NAME: Bourne Estate<br>BL_ID: 137<br>Wave: 3]]></description>
+      <description><![CDATA[REGION: SW<br>AUTHORITY: Poole<br>BL_ID: 137<br>Wave: 3<br>CRAFT_ID: ]]></description>
       <styleUrl>#poly-A52714-3701-76</styleUrl>
       <ExtendedData>
-        <Data name="description">
-          <value/>
-        </Data>
         <Data name="REGION">
           <value>SW</value>
         </Data>
         <Data name="AUTHORITY">
           <value>Poole</value>
         </Data>
-        <Data name="AREA_NAME">
-          <value>Bourne Estate</value>
-        </Data>
         <Data name="BL_ID">
           <value>137</value>
         </Data>
         <Data name="Wave">
           <value>3</value>
+        </Data>
+        <Data name="CRAFT_ID">
+          <value/>
         </Data>
       </ExtendedData>
       <Polygon>
